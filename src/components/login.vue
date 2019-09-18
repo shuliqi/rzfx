@@ -6,7 +6,7 @@
             <span>中启树立起时智源CRM</span>
           </div>
           <div class="main_login" v-loading="loading" :element-loading-text="loading_text">
-              <div class="zhang">撒开多久恢复精神的高峰时段</div>
+              <div class="zhang">222222</div>
               <div class="error iconfont icon-error" v-show="isShow">{{tips}}</div>
               <el-form ref="form" :model="form" label-width="80px" label-position="left" :rules="rules" :show-message="message"  v-on:keyup.enter="submitForm('form')">
                   <el-form-item prop="name">
