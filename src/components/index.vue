@@ -24,7 +24,7 @@
 		<div class="select">
 			<div class="select_main" ref="select_main">
 				<div class="selIn fl">
-					<span class="tit">地区：</span>
+					<span class="tit">地sdsd区：</span>
 					<div class="yin">
 						<span  class="valueBox">{{ select.valueD }}</span>
 						<i class="icon iconfont icon-xiala"></i>
